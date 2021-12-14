@@ -1,0 +1,77 @@
+p.c2 {
+	display: inline;
+	box-sizing: content-box;
+	border: 5px solid black;
+}
+
+img {
+	border: 5px solid black;
+	margin-top: 10px;
+}
+
+p.c3 {
+	display: inline-block;
+	box-sizing: content-box;
+	border: 5px solid black;
+	height: 100px;
+	width: 200px;
+}
+
+.imgmovida {
+	position: absolute;
+	left: 311px;
+}
+
+p.c4 {
+	display: inline-block;
+	box-sizing: content-box;
+	border: 5px solid black;
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	left: 540px;
+	top: 511px;
+}
+
+img.grande {
+	position: absolute;
+	left: 225px;
+	top: 280px;
+	width: 300px;
+	height: 300px;
+}
+
+p.c5 {
+	display: inline-block;
+	box-sizing: content-box;
+	border: 5px solid black;
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	left: 88px;
+	top: 605px;
+	z-index: 1;
+}
+
+p.c6 {
+	display: inline-block;
+	box-sizing: content-box;
+	border: 5px solid greenyellow;
+	height: 100px;
+	width: 300px;
+	position:fixed;
+	bottom: 0px;
+	right: 0px;
+}
+
+p.c7 {
+	display: inline-block;
+	box-sizing: content-box;
+	border: 5px solid black;
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	left: 40px;
+	top: 511px;
+	z-index: 2;
+}
